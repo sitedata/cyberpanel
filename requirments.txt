@@ -57,7 +57,7 @@ SimpleWebSocketServer==0.1.1
 six==1.13.0
 sqlparse==0.3.0
 tldextract==2.2.0
-urllib3==1.22
+urllib3==1.25.9
 websocket-client==0.56.0
 zope.component==4.4.1
 zope.event==4.3.0
