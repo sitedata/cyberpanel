@@ -12,7 +12,7 @@ cffi==1.11.5
 chardet==3.0.4
 ConfigArgParse==0.15.2
 configobj==5.0.6
-cryptography==2.8
+cryptography==3.2
 decorator==3.4.0
 Django==3.0.1
 docker==3.6.0
@@ -37,7 +37,7 @@ parsedatetime==2.4
 pbr==4.0.4
 pexpect==4.4.0
 prettytable==0.7.2
-psutil==5.4.3
+psutil==5.6.7
 ptyprocess==0.6.0
 py3dns==3.2.1
 pycparser==2.18
