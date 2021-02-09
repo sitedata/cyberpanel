@@ -12,7 +12,7 @@ cffi==1.11.5
 chardet==3.0.4
 ConfigArgParse==0.15.2
 configobj==5.0.6
-cryptography==2.8
+cryptography==3.3.2
 decorator==3.4.0
 Django==3.0.1
 docker==3.6.0
